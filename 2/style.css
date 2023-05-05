@@ -1,0 +1,26 @@
+h1 {
+    color: #8b2245;
+    text-align: center;
+}
+h2 {
+    color: #8b2245;
+}
+hr {
+    border: 1px solid rgb(15, 34, 70);
+}
+.highlight {
+    color: #2d9dac;
+    font-weight: bold;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+    color: azure;
+}
+body {
+    background-color: #1c373b;
+}
