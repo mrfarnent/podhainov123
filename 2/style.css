@@ -1,26 +1,43 @@
 h1 {
-    color: #8b2245;
+    color: #F67280;
     text-align: center;
 }
 h2 {
-    color: #8b2245;
+    color: #C06C84;
+}
+a{
+    color: #6C5B7B;
+    display: flex;
+    justify-content: end;
+    margin-top;
 }
 hr {
-    border: 1px solid rgb(15, 34, 70);
+    border: 1px solid rgb(53, 92, 125);
+    width: 50%;
+    margin-left:50% ;
 }
 .highlight {
-    color: #2d9dac;
+    color: #6C5B7B;
     font-weight: bold;
 }
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    display: flex;
+    z-index: 1 ;
+    margin-top: -600px;
+    margin-left: 100px;
 }
+
 p{
     color: azure;
 }
 body {
-    background-color: #1c373b;
+    background-color: #F8B195;
+    font-family: Tahoma;
+}
+.text-about{
+text-align: right;
+}
+.img{
+    width: 700px;
+    height:700px;
 }
